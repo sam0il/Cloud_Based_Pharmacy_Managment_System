@@ -4,6 +4,7 @@
 
 **Code:** CBPMS-2026  
 **Name:** Cloud_Based_Pharmacy_Management_System
+**Link:** https://github.com/sam0il/Cloud_Based_Pharmacy_Managment_System
 
 ## 2. PROJECT CLIENT
 
@@ -15,15 +16,15 @@ The Healthcare System of a country.
 **Date:** 21 February 2026  
 Initial version of the project charter.
 
-## 4. THE IMPORTANCE OF THE PROJECT FOR THE ORGANIZATION AND ITS ENVIRONMENT
-
-The Cloud-Based Pharmacy Management System is important because it replaces outdated and disconnected pharmacy software with one centralized platform. This will improve inventory tracking, prescription processing and sales management, reducing errors and saving time. The system will also increase data security through controlled access, secure storage and backups and help the pharmacy meet healthcare regulations. In addition, it will improve customer service and patient safety by enabling faster prescription handling and better cooperation with doctors and healthcare systems. Overall, the project improves efficiency, security and quality of pharmacy services.
-
-## 5. THE PURPOSE AND THE OBJECTIVES OF THE PROJECT
+## 4. THE PURPOSE AND THE OBJECTIVES OF THE PROJECT
 
 ### Purpose
 
 The purpose of the project is to ensure that patient prescriptions are always available digitally, regardless of which hospital or pharmacy they visit. The system will also reduce paperwork, make it faster and easier for patients to receive their prescriptions and medication, and improve system safety and alerts.
+
+## 5. THE IMPORTANCE OF THE PROJECT FOR THE ORGANIZATION AND ITS ENVIRONMENT
+
+The Cloud-Based Pharmacy Management System is important because it replaces outdated and disconnected pharmacy software with one centralized platform. This will improve inventory tracking, prescription processing and sales management, reducing errors and saving time. The system will also increase data security through controlled access, secure storage and backups and help the pharmacy meet healthcare regulations. In addition, it will improve customer service and patient safety by enabling faster prescription handling and better cooperation with doctors and healthcare systems. Overall, the project improves efficiency, security and quality of pharmacy services.
 
 ### Objectives
 
