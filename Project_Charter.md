@@ -3,7 +3,7 @@
 ## 1. PROJECT CODE AND NAME
 
 **Code:** CBPMS-2026  
-**Name:** Cloud_Based_Pharmacy_Management_System
+**Name:** Cloud_Based_Pharmacy_Management_System  
 **Link:** https://github.com/sam0il/Cloud_Based_Pharmacy_Managment_System
 
 ## 2. PROJECT CLIENT
