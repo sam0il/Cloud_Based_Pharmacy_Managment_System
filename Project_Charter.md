@@ -109,6 +109,6 @@ The highest risk, beside the standard software delivery risks regarding scope, t
 ## 11. CLIENT AND SIGNATURE
 
 **Client / Course:** Ministry of Health of the Republic of Slovenia
-**Representative:**  Trpe Markovski, IT manager in the Ministry of Health of RS _
+**Representative:** Trpe Markovski, IT manager in the Ministry of Health of RS
 
 **Signature:** ____________________________
